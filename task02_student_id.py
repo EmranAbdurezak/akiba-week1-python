@@ -1,0 +1,17 @@
+Student_name=input("Enter your name: ")
+Student_id=input("Enter your ID number: ")
+department=input("Enter your department: ")
+year=input("Enter your year: ")
+university=input("Enter your university: ")
+phone_number=input("Enter your phone_number: ")
+
+
+print(" +--------------------------+")
+print(" |    AKIBA STUDENT CARD    |")
+print(f"| Name: {Student_name}     |")
+print(f"| ID: {Student_id}         |")
+print(f"| Department: {department} |")
+print(f"| Year: {year}             |")
+print(f"| University: {university} |")
+print(f"| Phone: {phone_number}    |")
+print(" +--------------------------+")
