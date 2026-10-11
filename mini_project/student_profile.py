@@ -1,0 +1,28 @@
+name=input("Enter your name: ")
+student_id=input("Enter your student id: ")
+age=int(input("Enter your age: "))
+city=input("Enter your city: ")
+university=input("Enter your university: ")
+department=input("Enter your department: ")
+email=input("Enter your email: ")
+phone=input("Enter your phone number: ")
+favorite_language=input("Enter your favorite programming language: ")
+programming_goal=input("Enter your programming goal: ")
+
+print("=====================================")
+print("      AKIBA STUDENT PROFILE")
+print("=====================================")
+
+
+print(f"\nName: {name}")
+print(f"Student ID:  {student_id}")
+print(f"Age:  {age}")
+print(f"City:  {city}")
+print(f"University:  {university}")
+print(f"Department:  {department}")
+print(f"Email:  {email}")
+print(f"Phone:  {phone}")
+print(f"Favorite Language:  {favorite_language}")
+print(f"Programming Goal:  {programming_goal}")
+
+print("\n=====================================")
